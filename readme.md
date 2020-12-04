@@ -1,4 +1,4 @@
-##Compañeros de clase:
+## Compañeros de clase:
 
 NOMBRE | GITHUB
 ------ | ------
